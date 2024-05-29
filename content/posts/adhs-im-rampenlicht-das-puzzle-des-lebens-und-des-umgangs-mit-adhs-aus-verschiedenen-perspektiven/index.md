@@ -33,12 +33,10 @@ Wie Madeleine aussagt: *« Man soll nicht alle Kinder mit ADHS in einen Topf wer
 
 Gehen wir ein paar Jahre zurück, Timo Hildebrandt, Erstklässler der Primarstufe, kämpft mit der Konzentration. Anfangs dachte man, dass er sich in einer Entwicklungsphase befindet und es normal sei, dass Kinder in seinem Alter etwas aktiver sind. Deshalb machte man sich zunächst keine großen Gedanken darüber. Schliesslich tritt die Vermutung auf, dass er auf dem ADHS-Spektrum sein könnte. Geht durch diese Vermutung für Timo die Welt unter? Nein, mit seinen sieben Jahren nimmt er diese neue Information nicht wirklich auf und lässt sich auch von seinen Mitschülern nicht unterscheiden. Während er auf dem Pult sitzt, wirft Timo einen Blick auf die grossen Fenster des Klassenzimmers. Ein fliegender Vogel weckt sein Interesse und der Unterricht im Hintergrund verschwimmt. Plötzlich ertönt das Klingeln, welches das Ende der Stunde ankündigt und Timo erwacht aus seiner verträumten und unkonzentrierten Welt.
 
-##### Medikamentöse Behandlung 
+##### Medikamentöse Behandlung
 
 Letzten Endes musste man medikamentös mit *«Ritalin»* und *«Elvanse»* eingreifen, was dazu geführt hat, dass Timo im jungen Alter folgende Erfahrungen gemacht hat: *« Als ich die Medikamente zu mir nahm, war ich vollkommen in meiner Welt, habe mich distanziert, war weniger kommunikativ, hatte weniger Appetit und es veränderte meine Persönlichkeit.»* 
 Timo nimmt das Medikament zu sich und nach kurzer Zeit, steigt seine Konzentration drastisch. Ohne Einnahme ist es für ihn schwierig den ganzen Inhalt, den er gelernt hat, wieder abzurufen. Doch im Laufe der Zeit ist ADHS immer weniger ein Thema und wurde immer mehr von seinem Umfeld akzeptiert. 
-
-
 
 {{<box>}}
 
@@ -64,7 +62,9 @@ Die Wände des leeren Wartezimmers von Frau Aeschbach sind in strahlendem Weiss 
 
 ![In der Praxis von Simone Aeschbach ](praxis.jpg)
 
-##### Trotz ADHS, bewundernswerte Konzentration in Krisensituationen 
+![](simone.png)
+
+##### Trotz ADHS, bewundernswerte Konzentration in Krisensituationen
 
 Fasziniert erläutert Frau Aeschbach, wie gut eine ADHS-betroffene Person in Krisensituationen arbeiten könne, wie beispielswiese in der Notfallchirurgie oder dem Rettungsdienst, wobei ihnen ihre genetisch bedingte Störung in diesen Fällen keine Steine in den Weg legt. Auf die Frage, wie man ADHS behandeln kann, beschreibt uns Frau Aeschbach den Behandlungsprozess von Neurofeedback: *« Mit Neurofeedback, auch das Hirntraining genannt, versucht man die Wellen im Hirn zu steuern, damit die Betroffenen weniger nervös sind. Das Ziel ist es, die Diagnose zu verstehen und lernen damit umzugehen.»* 
 
