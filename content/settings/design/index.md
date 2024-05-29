@@ -1,7 +1,7 @@
 +++
 headless = true
-icon = "/img/default-favicon.png"
-logo = "/img/default-logo.png"
+icon = "/media/blue-flower.png"
+logo = "/media/blue-flower.png"
 image = "/media/blue-flower.png"
 color = "#5a4ae3"
 +++
