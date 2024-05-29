@@ -7,7 +7,7 @@ tags = ["Deutsch", "Reportage"]
 image = "gehirn.jpg"
 description = "ADHS wird durch Symptome wie Unaufmerksamkeit, Hyperaktivität und Impulsivität gekennzeichnet und durch eine klinische Bewertung mittels Interviews und Fragebögen diagnostiziert."
 +++
-{{<lead>}} **In einer Gesellschaft, die Konzentration und Aufmerksamkeit schätzt, bleiben diejenigen, die mit ADHS leben, oft im Schatten. Doch hinter diesem Verhalten verbirgt sich eine komplexe Realität: Die Herausforderungen der Aufmerksamkeitsdefizit-Hyperaktivitätsstörung (ADHS). Begleiten Sie uns auf eine kleine Reise der Diagnose ADHS, von anfänglichem Missverständnis hin zur Erkenntnis, dass jede Geschichte einzigartig ist und neue Perspektiven aufdeckt.** {{</lead>}}
+**{{<lead>}} In einer Gesellschaft, die Konzentration und Aufmerksamkeit schätzt, bleiben diejenigen, die mit ADHS leben, oft im Schatten. Doch hinter diesem Verhalten verbirgt sich eine komplexe Realität: Die Herausforderungen der Aufmerksamkeitsdefizit-Hyperaktivitätsstörung (ADHS). Begleiten Sie uns auf eine kleine Reise der Diagnose ADHS, von anfänglichem Missverständnis hin zur Erkenntnis, dass jede Geschichte einzigartig ist und neue Perspektiven aufdeckt. {{</lead>}}**
 
 Von **Dalia Sretenovic und Cindy Nilovic**
 
