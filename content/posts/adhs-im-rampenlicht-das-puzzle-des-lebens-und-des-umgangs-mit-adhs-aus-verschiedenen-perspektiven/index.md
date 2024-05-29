@@ -4,12 +4,10 @@ date = "2024-05-29"
 draft = false
 pinned = true
 tags = ["Deutsch", "Reportage"]
+image = "gehirn.jpg"
+description = "ADHS wird durch Symptome wie Unaufmerksamkeit, Hyperaktivität und Impulsivität gekennzeichnet und durch eine klinische Bewertung mittels Interviews und Fragebögen diagnostiziert."
 +++
-{{<lead>}}
-
-**In einer Gesellschaft, die Konzentration und Aufmerksamkeit schätzt, bleiben diejenigen, die mit ADHS leben, oft im Schatten. Doch hinter diesem Verhalten verbirgt sich eine komplexe Realität: Die Herausforderungen der Aufmerksamkeitsdefizit-Hyperaktivitätsstörung (ADHS). Begleiten Sie uns auf eine kleine Reise der Diagnose ADHS, von anfänglichem Missverständnis hin zur Erkenntnis, dass jede Geschichte einzigartig ist und neue Perspektiven aufdeckt.** 
-
-{{</lead>}}
+{{<lead>}} **In einer Gesellschaft, die Konzentration und Aufmerksamkeit schätzt, bleiben diejenigen, die mit ADHS leben, oft im Schatten. Doch hinter diesem Verhalten verbirgt sich eine komplexe Realität: Die Herausforderungen der Aufmerksamkeitsdefizit-Hyperaktivitätsstörung (ADHS). Begleiten Sie uns auf eine kleine Reise der Diagnose ADHS, von anfänglichem Missverständnis hin zur Erkenntnis, dass jede Geschichte einzigartig ist und neue Perspektiven aufdeckt.** {{</lead>}}
 
 Von **Dalia Sretenovic und Cindy Nilovic**
 
@@ -38,13 +36,9 @@ Gehen wir ein paar Jahre zurück, Timo Hildebrandt, Erstklässler der Primarstuf
 Letzten Endes musste man medikamentös mit *«Ritalin»* und *«Elvanse»* eingreifen, was dazu geführt hat, dass Timo im jungen Alter folgende Erfahrungen gemacht hat: *« Als ich die Medikamente zu mir nahm, war ich vollkommen in meiner Welt, habe mich distanziert, war weniger kommunikativ, hatte weniger Appetit und es veränderte meine Persönlichkeit.»* 
 Timo nimmt das Medikament zu sich und nach kurzer Zeit, steigt seine Konzentration drastisch. Ohne Einnahme ist es für ihn schwierig den ganzen Inhalt, den er gelernt hat, wieder abzurufen. Doch im Laufe der Zeit ist ADHS immer weniger ein Thema und wurde immer mehr von seinem Umfeld akzeptiert. 
 
-{{<box>}}
+{{<box>}} Medikamente wie Ritalin, können die Hirntätigkeit stimulieren. Es wirkt anregend für die Konzentration, unterdrückt Müdigkeit und wirkt leistungssteigernd. Was je nachdem zum Vorteil der ADHS-Betroffenen führt.
 
-Medikamente wie Ritalin, können die Hirntätigkeit stimulieren. Es wirkt anregend für die Konzentration, unterdrückt Müdigkeit und wirkt leistungssteigernd. Was je nachdem zum Vorteil der ADHS-Betroffenen führt.
-
-Quelle: [https://www.netdoktor.ch/medikamente/ritalin](https://www.netdoktor.ch/medikamente/ritalin/)
-
-{{</box>}}
+Quelle: [https://www.netdoktor.ch/medikamente/ritalin ](https://www.netdoktor.ch/medikamente/ritalin/){{</box>}}
 
 ##### Die Auswirkung von ADHS auf das Umfeld
 
@@ -62,7 +56,7 @@ Die Wände des leeren Wartezimmers von Frau Aeschbach sind in strahlendem Weiss 
 
 ![In der Praxis von Simone Aeschbach ](praxis.jpg)
 
-![](simone.png)
+![Simone Aeschbach](simone.png)
 
 ##### Trotz ADHS, bewundernswerte Konzentration in Krisensituationen
 
