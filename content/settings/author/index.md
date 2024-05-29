@@ -1,6 +1,6 @@
 +++
 headless = true
-name = "My Name"
-image = "/img/default-author.jpg"
+name = "Dalia Sretenovic"
+image = "/media/titelbild-.png"
 url = "/about/"
 +++
